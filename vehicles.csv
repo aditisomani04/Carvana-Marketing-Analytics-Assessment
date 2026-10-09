@@ -1,0 +1,41 @@
+﻿make,model,bodystyle,avg_margin
+Toyota,Tacoma,Truck,202.64
+Nissan,Sentra,Sedan,209.51
+Audi,A4,Sedan,218.7
+Toyota,RAV4,SUV,230.57
+BMW,X3,SUV,235.41
+Volkswagen,Beetle,Hatchback,267.15
+Ford,F-150,Truck,304.29
+Jeep,Wrangler,SUV,318.42
+Honda,HR-V,SUV,338.68
+Ford,Mustang,Coupe,382.66
+Nissan,Leaf,Hatchback,383.06
+Land Rover,Range Rover,SUV,412.27
+Ford,Escape,SUV,420.76
+BMW,5 Series,Sedan,452.19
+Chevrolet,Malibu,Sedan,464.83
+Porsche,Panamera,Sedan,466.37
+Chevrolet,Silverado,Truck,476.15
+Mercedes-Benz,S-Class,Sedan,497.16
+BMW,3 Series,Sedan,502.7
+Mercedes-Benz,GLE,SUV,540.76
+Audi,A6,Sedan,555.01
+Audi,Q3,SUV,587.94
+Subaru,WRX,Sedan,615.05
+Nissan,Titan,Truck,621.98
+Porsche,911,Coupe,624.91
+Hyundai,Veloster,Hatchback,634.72
+Hyundai,Sonata,Sedan,641.96
+Ford,Fusion,Sedan,650.93
+Subaru,Forester,SUV,658.15
+Honda,CR-V,SUV,660.04
+Tesla,Model S,Sedan,689.02
+Volkswagen,Passat,Sedan,701.92
+Mercedes-Benz,GLC,SUV,711.24
+Honda,Civic,Sedan,728.37
+Toyota,Corolla,Sedan,737.43
+Mercedes-Benz,E-Class,Sedan,745.56
+Ram,1500,Truck,753.24
+Tesla,Model 3,Sedan,986.21
+Chevrolet,Equinox,SUV,770.53
+Chevrolet,Camaro,Coupe,780.44
